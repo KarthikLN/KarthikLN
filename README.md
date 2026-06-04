@@ -83,9 +83,9 @@
 
 Machine Learning system to identify fraudulent banking transactions using feature engineering, model training, and evaluation.
 
-### 🔹 Data Analysis Dashboards
+### 🔹 Traffic Data Analysis
 
-Interactive dashboards and business insights using Power BI and Python.
+Exploratory Data Analysis and finding insights using Pandas
 
 ---
 
